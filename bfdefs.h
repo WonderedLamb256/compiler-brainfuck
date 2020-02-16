@@ -11,3 +11,4 @@ void dec_ptr();
 void prt_ptr();
 void cond_1();
 void cond_2();
+void interpreter();
