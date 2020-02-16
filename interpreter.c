@@ -1,7 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include "bfdefs.h"
-#include "config.h"
 #include "reserve-cells.o"
 #include "commands.o"
 
