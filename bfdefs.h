@@ -1,4 +1,5 @@
-unsigned short int *i =
+unsigned short int *i;
+int rel_pos_
 
 void donothing();
 void set_number_after_use();
