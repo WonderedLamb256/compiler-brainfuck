@@ -20,7 +20,7 @@ void dec_ptr() { // -
       ptr_rel_loc--;
 }
 void prt_ptr() {
-      printf("0x%d/n", &i[number]);
+      printf("0x%d/n", i[number]);
 }
 void cond_1() {
       if *i == 0 {
