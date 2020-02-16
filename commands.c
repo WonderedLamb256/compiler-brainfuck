@@ -24,7 +24,7 @@ void prt_ptr() {
 }
 void cond_1() {
       if *i == 0 {
-            goto void cond_2();
+            goto cond_2();
       }
 }
 void cond_2() {
