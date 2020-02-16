@@ -1,5 +1,6 @@
 unsigned short int *i;
-int rel_pos_
+int number;
+int ptr_rel_loc;
 
 void donothing();
 void set_number_after_use();
