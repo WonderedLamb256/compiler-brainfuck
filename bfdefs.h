@@ -1,7 +1,7 @@
 unsigned short int *i;
 int number;
 int ptr_rel_loc;
-char code[];
+char code[100];
 
 void donothing();
 void set_number_after_use();
